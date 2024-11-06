@@ -36,7 +36,7 @@ If you’re new to GitHub, don’t worry! Follow these instructions to set up yo
     git checkout -b your_name
     ```
 
-This branch is where you’ll make changes without affecting the main project files.
+This branch is where you’ll make changes without affecting the master project files.
 
 ### Pushing Your Changes
 
@@ -55,9 +55,9 @@ This branch is where you’ll make changes without affecting the main project fi
     git push origin your_name
     ```
 
-4. Once your changes are pushed, you can create a Pull Request (PR) on GitHub to review and merge them into the main project.
+4. Once your changes are pushed, you can create a Pull Request (PR) on GitHub to review and merge them into the master project.
 
-> **Note**: Always create a new branch for each feature or update to keep the main branch clean and organized.
+> **Note**: Always create a new branch for each feature or update to keep the master branch clean and organized.
 
 ## Contributors
 
