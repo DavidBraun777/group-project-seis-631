@@ -75,5 +75,6 @@ If you'd like to contribute, please fork this repository and follow the [Pushing
 For further reading on how to use Git and GitHub, check out these resources:
 - [GitHub Docs: Getting Started](https://docs.github.com/en/get-started)
 - [Git Branching Basics](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+- [Discord Project Chat for Questions](https://discordapp.com/channels/1303014019778613328/1303014019778613331)
 
 Thank you for contributing to the Mobile Device Usage and User Behavior Dataset project!
