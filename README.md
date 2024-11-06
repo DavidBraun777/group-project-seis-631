@@ -66,6 +66,7 @@ We welcome all contributors to this project! Please make sure to follow the bran
 ### Current Group Members
 
 - David Braun
+- Matthew Henning
 - (Add your name here)
 
 If you'd like to contribute, please fork this repository and follow the [Pushing Your Changes](#pushing-your-changes) steps above.
