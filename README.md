@@ -13,11 +13,25 @@ HOW TO PUSH YOUR UPDATES TO GITHUB   |   Otherwise, use GitHub Desktop (https://
 
 ( First, add your branch: "git checkout -b your_name" )
 
-<<<<<<< Updated upstream
 git add .
 git commit -m "put_what_you_changed_here_in_short"
 git push
-=======
+
+# Mobile Device Usage and User Behavior Dataset
+
+Welcome to the Mobile Device Usage and User Behavior Dataset project! This repository includes a dataset and instructions on how to contribute to it using GitHub. This guide is perfect for those who are new to GitHub and looking to get started with version control.
+
+**Table of Contents**
+- [Project Overview](#project-overview)
+- [Dataset Information](#dataset-information)
+- [Getting Started with GitHub](#getting-started-with-github)
+  - [Setting Up Your Branch](#setting-up-your-branch)
+  - [Pushing Your Changes](#pushing-your-changes)
+- [Contributors](#contributors)
+- [Additional Resources](#additional-resources)
+
+## Project Overview
+
 This project focuses on analyzing a dataset that provides insights into mobile device usage and user behavior patterns. The dataset, contributed by valakhorasani, can be used for various data analysis and machine learning tasks.
 
 ## Dataset Information
@@ -41,7 +55,8 @@ If you’re new to GitHub, don’t worry! Follow these instructions to set up yo
     git checkout -b your_name
     ```
 
-This branch is where you’ll make changes without affecting the main project files.
+
+This branch is where you’ll make changes without affecting the master project files.
 
 ### Pushing Your Changes
 
@@ -60,9 +75,9 @@ This branch is where you’ll make changes without affecting the main project fi
     git push origin your_name
     ```
 
-4. Once your changes are pushed, you can create a Pull Request (PR) on GitHub to review and merge them into the main project.
+4. Once your changes are pushed, you can create a Pull Request (PR) on GitHub to review and merge them into the master project.
 
-> **Note**: Always create a new branch for each feature or update to keep the main branch clean and organized.
+> **Note**: Always create a new branch for each feature or update to keep the master branch clean and organized.
 
 ## Contributors
 
@@ -82,5 +97,7 @@ For further reading on how to use Git and GitHub, check out these resources:
 - [GitHub Docs: Getting Started](https://docs.github.com/en/get-started)
 - [Git Branching Basics](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
+
 Thank you for contributing to the Mobile Device Usage and User Behavior Dataset project!
->>>>>>> Stashed changes
+
+- [Discord Project Chat for Questions](https://discordapp.com/channels/1303014019778613328/1303014019778613331)
