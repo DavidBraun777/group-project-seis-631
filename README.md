@@ -1,3 +1,22 @@
+Mobile Device Usage and User Behavior Dataset
+	*user_behavior_dataset.csv(38.88 kB)
+https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset
+
+Group 1:
+	-David Braun
+	-Matt Henning
+	-
+	-
+	-
+
+HOW TO PUSH YOUR UPDATES TO GITHUB   |   Otherwise, use GitHub Desktop (https://desktop.github.com/download/)
+
+( First, add your branch: "git checkout -b your_name" )
+
+git add .
+git commit -m "put_what_you_changed_here_in_short"
+git push
+
 # Mobile Device Usage and User Behavior Dataset
 
 Welcome to the Mobile Device Usage and User Behavior Dataset project! This repository includes a dataset and instructions on how to contribute to it using GitHub. This guide is perfect for those who are new to GitHub and looking to get started with version control.
@@ -35,6 +54,7 @@ If you’re new to GitHub, don’t worry! Follow these instructions to set up yo
     ```sh
     git checkout -b your_name
     ```
+
 
 This branch is where you’ll make changes without affecting the master project files.
 
@@ -76,6 +96,8 @@ If you'd like to contribute, please fork this repository and follow the [Pushing
 For further reading on how to use Git and GitHub, check out these resources:
 - [GitHub Docs: Getting Started](https://docs.github.com/en/get-started)
 - [Git Branching Basics](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
-- [Discord Project Chat for Questions](https://discordapp.com/channels/1303014019778613328/1303014019778613331)
+
 
 Thank you for contributing to the Mobile Device Usage and User Behavior Dataset project!
+
+- [Discord Project Chat for Questions](https://discordapp.com/channels/1303014019778613328/1303014019778613331)
