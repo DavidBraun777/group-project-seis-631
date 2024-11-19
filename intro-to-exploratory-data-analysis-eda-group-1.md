@@ -1712,11 +1712,6 @@ plt.xlabel('Age');
     
 
 
-### Heat Maps - Cristian Zendejas
-
-Heat Maps is a type of plot which is necessary when we need to find the dependent variables. One of the best way to find the relationship between the features can be done using heat maps. In the below heat map we know that the price feature depends mainly on the Engine Size, Horsepower, and Cylinders.
-
-
 ```python
 plt.plot(df['# of Apps Installed'],df['App Usage Time (min/day)'])
 #This plot proved to be very hard to read since the amount of apps are too close in value.
